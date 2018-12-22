@@ -1,8 +1,6 @@
   Tour Guid App
 ===================================
-
-This app displays information about a specific country in multipul pages.Each page talk about diffirent topic such as cultuer, food and location.
-created in a Udacity course in the Beginning Android Nanodegree.
+This app displays information about a specific country in multiple pages. Each page talk about different topic such as culture, food and location. created in a Udacity course in the Beginning Android Nanodegree.
 
 Pre-requisites
 --------------
