@@ -1,0 +1,131 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Guid Tour</string>
+
+    <!-- Category name for Food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary Infos for Weather [CHAR LIMIT=20] -->
+    <string name="category_crafts">Craftsmanship</string>
+
+    <!-- Category name for the vocabulary Infos for Places [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Category name for the vocabulary Infos for Restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Food  Category [CHAR LIMIT=30] -->
+    <!-- Shawarma  [CHAR LIMIT=30] -->
+    <string name="food_Shawarma">Shawarma</string>
+    <!-- Shawarma details [CHAR LIMIT=30] -->
+    <string name="food_Shawarma_details">Sliced and marinated meat shaved off a roasting skewer and stuffed into Arabic bread or sometimes baguette, alone with hummus, or with additional trimmings such as fresh onion
+, French fries, salads and pickles.</string>
+    <!-- Falafil  [CHAR LIMIT=30] -->
+    <string name="food_Falafil">Falafil</string>
+    <!-- Falafil details [CHAR LIMIT=30] -->
+    <string name="food_Falafil_details">Fried balls or patties of spiced, mashed chickpeas, most often served in Arabic bread, with pickles, tahina, hummus, sumac,
+cut vegetable salad and often, shatteh, a hot sauce, the type used depending on the falafil maker.</string>
+    <!-- Balawah  [CHAR LIMIT=30] -->
+    <string name="food_Balawah">Balawah</string>
+    <!-- Balawah details [CHAR LIMIT=30] -->
+    <string name="food_Balawah_details">
+Layered pastry filled with nuts, steeped in a honey syrup called "'atr" (قطر), and usually cut in a triangular or diamond shape.</string>
+
+    <!-- //////////////////////////////////////////-->
+
+
+    <!-- Places Category [CHAR LIMIT=30] -->
+    <!-- Salah Al-Dine Citadel  [CHAR LIMIT=30] -->
+    <string name="places_Salah_AlDine_Citadel">Salah Al-Dine Citadel</string>
+    <!-- Salah Al-Dine Citadel details [CHAR LIMIT=30] -->
+    <string name="places_Salah_AlDine_Citadel_details"> It is one of the Syrian Coast castles in Lattakia. Situated on the top of a high hill,
+    surrounded with green forests and marvelous views. For a long period of time it was called (Saone) Sahioun castle only to be named later on Salah Al-Dine Citadel to commemorate the memory of the great Kurdish Islamic leader,
+</string>
+
+    <!-- Palmyra  [CHAR LIMIT=30] -->
+    <string name="places_Palmyra">Palmyra</string>
+    <!-- Palmyra details [CHAR LIMIT=30] -->
+    <string name="places_Palmyra_details">
+Palmyra centers the Syrian desert, being 243 km away from Damascus and 150 km from Homs from the east at the foot of Al-Mentar Mount of Palmyrian mountains series in a plenteous spring basin forming a green Oasis.The archaeological monuments in Palmyra:
+   The Temple of Baal - The Temple of Nabbo - The Temple of Baalshmine - The Temple of Allat - The Temple of Yalhamone and Monate - The Baths - The Amphitheater - The Straight Street (via recta) - The Congress Council -  Al-Agwar( the planted valleys) - The  Cemeteries - The Walls - The columns - The Churches.
+   Damascus is famous for being a commercial city where caravans stopped to rest.
+</string>
+
+
+    <!-- Palmyra  [CHAR LIMIT=30] -->
+    <string name="places_The_Ol_City_of_Damascus">The Old City of Damascus</string>
+    <!-- Palmyra details [CHAR LIMIT=30] -->
+    <string name="places_The_Ol_City_of_Damascus_details">Damascus is the capital of the Syrian Arab Republic and the center of Damascus Governorate.
+ It is one of the oldest cities in the world with a contentious history for 11000 years.
+there are some theories explaining the meaning of the name “Damascus” the most common,
+being derived from ancient Semitism, is the watered land due to the city’s geographic location in a fertile plain watered by Barada river and its branches.
+ Thus forming The Gota of Damascus, in addition to Qassioun Mountain which overlook the city of Damascus.
+</string>
+
+    <!-- //////////////////////////////////////////-->
+
+
+    <!-- Restaurants Category [CHAR LIMIT=30] -->
+
+    <!-- Bakdash  [CHAR LIMIT=30] -->
+    <string name="restaurant_Bakdash">Bakdash</string>
+
+    <!-- Bakdash details [CHAR LIMIT=30] -->
+    <string name="restaurant_Bakdash_details">
+    Bakdash, also known as Bakdach (Arabic: بكداش‎), is an ice cream parlor in Damascus, Syria. The shop was established around 1885 in Al-Hamidiyah Souq in the old city of Damascus.[1][2] It is famous for its pistachio-covered Booza, a pounded ice cream with an elastic texture made of mastic and sahlab.
+    It is famous around the Arab world and has become a popular tourist attraction.</string>
+
+    <!-- Bawabet Dimashq  [CHAR LIMIT=30] -->
+    <string name="restaurant_Bawabet_Dimashq">Bawabet Dimashq</string>
+
+    <!-- Bawabet Dimashq details [CHAR LIMIT=30] -->
+    <string name="restaurant_Bawabet_Dimashq_details">the largest restaurant in the world, is a family owned restaurant in Damascus, Syria, that opened in 2002. The restaurant has features such as waterfalls, fountains and replicas of archaeological ruins of Syria, and six culinary themed sections for Indian, Chinese, Arab, Iranian, Middle Eastern and Syrian Cuisine.
+ The restaurant received the title as the largest restaurant in the world by the Guinness World Records on May 29, 2008,
+</string>
+
+
+    <!-- Alnofarah  [CHAR LIMIT=30] -->
+    <string name="restaurant_Alnofarah">Alnofarah</string>
+
+    <!-- Alnofarah details [CHAR LIMIT=30] -->
+    <string name="restaurant_Alnofarah_details">Is the oldest café in Damascus, the capital of the Syrian Arab Republic, where it is over 500 years old.What distinguishes the cafe is its ancient architecture, in addition to the distinctive view of its paved area with black basalt stones.
+</string>
+
+    <!-- //////////////////////////////////////////-->
+
+
+    <!-- Craftsmanship Category [CHAR LIMIT=30] -->
+
+    <!-- Mother of Pearl Marquetry  [CHAR LIMIT=30] -->
+    <string name="craft_mother_of_pearl_marquetry">Mother of Pearl Marquetry</string>
+
+    <!-- Mother of Pearl Marquetry details [CHAR LIMIT=30] -->
+    <string name="craft_mother_of_pearl_marquetry_details">The Damascus school of mother of pearl marquetry is very famous worldwide, and it has been producing the finest furniture and other decorative pieces for many centuries.
+
+The oak trees that were abundant in the famous Orchards of Damascus and the oysters from the Euphrates River have historically supplied artisans with all they need for this craft.
+</string>
+
+
+    <!-- Copper Engraving  [CHAR LIMIT=30] -->
+    <string name="craft_copper_engraving">Copper Engraving</string>
+
+
+    <!-- Copper Engraving details [CHAR LIMIT=30] -->
+    <string name="craft_copper_engraving_details">The finest copper engraved vessels were originally made by the artisans of the Jewish community in Damascus.
+
+Items were initially made to cater for household needs, and later on they were made purely for decoration purposes</string>
+
+
+    <!-- Ajami Wooden Decoration  [CHAR LIMIT=30] -->
+    <string name="craft_ajami_wooden_decoration">Ajami Wooden Decoration</string>
+
+    <!-- Ajami Wooden Decoration details [CHAR LIMIT=30] -->
+    <string name="craft_ajami_wooden_decoration_details">The Ajami art of adding hand decorated wooden fixtures to ceilings and walls was used by Syrian artisans in the early era of the Umayyad Empire to decorate mosques and palaces.
+
+The decorative motifs used in Ajami usually depict illustrations of vegetations, writings and poems.
+
+The handicraft is still flourishing in Damascus with products being exported worldwide.</string>
+
+
+
+</resources>
